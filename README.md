@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **FLUTTER | DART | HTML | CSS | BOOTSTRAP 5 | JAVASCRIPT | TYPESCRIPT | REACT JS | ANGULAR | VUE JS | MSSQL Server | C# |**
+- 💬 Ask me about **FLUTTER | DART | C# | HTML | CSS | BOOTSTRAP 5 | JAVASCRIPT | TYPESCRIPT | REACT JS | ANGULAR | VUE JS | MSSQL Server |**
 
 - 📫 How to reach me **salmanbayramm33@gmail.com**
 
