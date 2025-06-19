@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web and mobil applications**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **| HTML | CSS | BOOTSTRAP 5 | JAVASCRIPT | TYPESCRIPT | REACT JS |REACT NATIVE | MSSQL Server |**
 
