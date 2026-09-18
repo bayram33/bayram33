@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bayram Salman</h1>
-<h3 align="center">Junior AI & Machine Learning Developer | LLM & RAG Specialist</h3>
+<h3 align="center">Flutter Developer & Machine Learning Developer | LLM & RAG Specialist</h3>
 
 <p align="center">
 Final-year Computer Engineering student passionate about Large Language Models, Retrieval-Augmented Generation (RAG), and applying AI to real-world problems — especially in the energy sector. Also experienced in cross-platform mobile app development with Flutter.
